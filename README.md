@@ -11,3 +11,4 @@ Jango Landing Page redevelop using HTML5, Css 3, Bootstrap 4 &amp; Javascript
 - Animation on Scroll
 - Fully Responsive
 - Parallax Effect
+& more
