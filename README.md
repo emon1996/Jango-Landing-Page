@@ -14,6 +14,4 @@ Jango Landing Page redevelop using HTML5, Css 3, Bootstrap 4 &amp; Javascript
 & more
 
 
-![GitHub Logo](/Images/Background/bg-img5.jpg
-)
-Format: ![Alt Text](url)
+
